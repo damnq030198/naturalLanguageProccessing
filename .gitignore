@@ -1,0 +1,6 @@
+__pycache/
+env/
+stanford-ner-4.0.0/
+README.md
+stanford-ner-4.0.0.zip
+pickled_algos
